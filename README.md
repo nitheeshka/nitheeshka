@@ -42,11 +42,11 @@ Here are a few projects I've worked on:
 
 ## Certifications
 
-NPTEL Certification on "Services Marketing" by IIT Roorkee Dec 2021 - Present
-Advanced Excel - Skillnation May 2023 - Present
-Business Intelligence using Power BI - Skill nation Jan 2024 - Present
-Basic to Advanced Tableau Dashboard Mastery Course - Skillnation Jan 2024 - Present
-Basic to Advanced SQL - Skill Nation Jan 2024 - Present
+NPTEL Certification on "Services Marketing" by IIT Roorkee Dec 2021 - Present<br>
+Advanced Excel - Skillnation May 2023 - Present<br>
+Business Intelligence using Power BI - Skill nation Jan 2024 - Present<br>
+Basic to Advanced Tableau Dashboard Mastery Course - Skillnation Jan 2024 - Present<br>
+Basic to Advanced SQL - Skill Nation Jan 2024 - Present<br>
 
 ## Contact Me
 
