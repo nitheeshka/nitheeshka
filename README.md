@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a marketing professional with a passion for da
 - SQL
 - Tableau
 - Excel
+- Tensor Flow
 
 ## Projects
 
