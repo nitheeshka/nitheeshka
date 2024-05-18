@@ -35,6 +35,9 @@ Here are a few projects I've worked on:
    - Developed a time-series forecasting model in Python to predict future sales.
    - Implemented the model into company operations, resulting in improved inventory management.
 
+3. **Lip Reading Using LipNet model**
+   - LipNet utilizes Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) to process video frames and predict spoken words.
+
 ## Education
 
 - Masters of Business Administration in Marketing and Operations - APJ Abdul Kalam Technical University, 2022
